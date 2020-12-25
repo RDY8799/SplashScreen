@@ -1,0 +1,9 @@
+com/lglf77/splashscreen2/BuildConfig.java
+ com.lglf77.splashscreen2.BuildConfig
+com/lglf77/splashscreen2/MainActivity.java
+ com.lglf77.splashscreen2.MainActivity
+com/lglf77/splashscreen2/SplashScreen.java
+ com.lglf77.splashscreen2.SplashScreen
+ com.lglf77.splashscreen2.SplashScreen$1
+ com.lglf77.splashscreen2.SplashScreen$2
+ com.lglf77.splashscreen2.SplashScreen$3
