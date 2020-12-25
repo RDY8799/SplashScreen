@@ -1,4 +1,2 @@
-### SplashScreen
-### LINK DO VÍDEO: https://youtu.be/RWmC2QmbodA
-# splashScreen
+# edited by RDY SOFTWARE
 # SplashScreen
